@@ -1,6 +1,6 @@
 @charset "utf-8";
-.name1{ color:tomato;}
-#name2{ color:dodgerblue;}
-.name3{ color:mediumseagreen;}
-.name4{ color:violet;}
-.name5{ color:lightgray;}
+p.name1{color:tomato;}
+p#name2{color:dodgerblue;}
+p.name3{color:rgb(60, 179, 113);}
+p.name4{color:#ee82ee;}
+p.name5{color:#b4b4b4;}

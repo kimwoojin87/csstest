@@ -1,0 +1,6 @@
+@charset "utf-8";
+p.name1{font-family:arial;}
+p#name2{font-family:"gill sans";}
+p.name3{font-family:"gill sans", serif;}
+p.name4{font-family:"gill sans", sans-serif;}
+p.name5{font-family:"이딴 폰트가 있을까?","아니 없을걸","gill sans",monospace;}
